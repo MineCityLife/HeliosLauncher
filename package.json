@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "mcllauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "MineCityLife Launcher",
+  "description": "Launcher Minecraft pour MineCityLife",
+  "author": "MineCityLife (https://github.com/MineCityLife/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/MineCityLife/Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/MineCityLife/Launcher/issues"
   },
   "private": true,
   "main": "index.js",
